@@ -32,7 +32,7 @@ Button.propTypes = {
   /**
    * If `true`, the button will be disabled.
    */
-  //disabled: PropTypes.bool,
+  disabled: PropTypes.bool,
   /**
    * If `true`, the  keyboard focus ripple will be disabled.
    * `disableRipple` must also be true.
